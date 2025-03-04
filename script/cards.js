@@ -11,7 +11,7 @@ const dataCards= [
 
     },
     {
-        "title": " Juego del año",
+        "title": " Juego del Mes",
         "url_image": "./img/juego.webp",
         "desc": "Este impresionante juego, hecho para los mas exigentes, requiere de mucha habilidad",
         "cta": "Mostrar mas....",
@@ -21,7 +21,7 @@ const dataCards= [
 
 
     {
-        "title": " Juego del año",
+        "title": " Juego de la Semana",
         "url_image": "./img/juego.webp",
         "desc": "Este impresionante juego, hecho para los mas exigentes, requiere de mucha habilidad",
         "cta": "Mostrar mas....",
