@@ -1,14 +1,14 @@
-console.log('Cargando Hamburger-icon');
+console.log('Cargando Hamburger Icon');
 
 (function(){
     const MAIN_OBJ = {
         init: function() {
             this.eventhandlers()
         },
-        eventhandlers: function() {
-            document.querySelector('.Hamburger-icon').addEventListener('click', function(){
-                document.querySelector('.menu-container').classLis.toggle('menu-open');
-            })
+        eventhandlers: function () {
+            document.querySelector('.hamburger-icon').addEventListener('click', function(){
+                document.querySelector('.menu-container').classList.toggle('menu-open');
+            });
         }
     }
     MAIN_OBJ.init()
